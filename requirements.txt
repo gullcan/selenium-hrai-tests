@@ -1,0 +1,4 @@
+selenium>=4.10
+pytest>=8.0
+python-dotenv
+requests
